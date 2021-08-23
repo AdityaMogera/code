@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: loops, Configuration: Debug Any CPU ------
+1>C:\Users\pc1\Desktop\code\loops\loops\Program.cs(12,37,12,38): error CS1026: ) expected
+1>Done building project "loops.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
